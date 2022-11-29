@@ -1,6 +1,6 @@
 # CHan
 
-This is a project was a personal assignment second year CS course of UOttawa, CSI 2110
+This is a project was a personal assignment second year CS course of UOttawa, CSI 2110.
 The desicription of this assignment is as following:
 
 In this programming assignment, you will implement a data clustering algorithm named DBSCAN -
