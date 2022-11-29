@@ -14,7 +14,7 @@ Point_Cloud files are raw outputs. The Point_Cloud files with suffix are the out
 
 This program is not perfect. It only got 95%
 
-Here is the
+Here is the feedback I got from TA
 
 
 Test and diagnosis: 
